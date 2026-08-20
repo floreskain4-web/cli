@@ -1,5 +1,9 @@
 # Changelog
 
+## [10.0.3](https://github.com/npm/cli/compare/arborist-v10.0.2...arborist-v10.0.3) (2026-08-20)
+### Bug Fixes
+* [`dc43591`](https://github.com/npm/cli/commit/dc43591e6e08e9857c787116b1ed12f074e68c3c) [#9877](https://github.com/npm/cli/pull/9877) arborist: don't fetch packuments for uninstallable optional peer dependencies (#9877) (@danielroe)
+
 ## [10.0.2](https://github.com/npm/cli/compare/arborist-v10.0.1...arborist-v10.0.2) (2026-07-27)
 ### Bug Fixes
 * [`74eff59`](https://github.com/npm/cli/commit/74eff59db40b4aff9665f4083b475a000bb46e50) [#9770](https://github.com/npm/cli/pull/9770) arborist: avoid crash when peer back-off detaches a node (#9770) (@manzoorwanijk)
